@@ -19,7 +19,6 @@
 
 <h3 align="left">Contactez-moi :</h3>
 <p align="left">
-<a href="https://dev.to/$at0shi#1516" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile- readme-generator/master/src/images/icons/Social/devto.svg" alt="$at0shi#1516" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/qsApZFRn4A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain /github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/qsApZFRn4A" height="30" width="40" /></ un>
 </p>
 
