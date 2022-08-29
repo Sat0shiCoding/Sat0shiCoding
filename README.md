@@ -5,21 +5,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app /?username=satoshicoding" alt="satoshicoding" /></a> </p>
 
-- 🔭 Je travaille actuellement sur [une base FiveM extraordinaire](https://discord.gg/qsApZFRn4A)
+- 🔭 Je travaille actuellement sur [une base FiveM extraordinaire](https://discord.gg/5UheXrMENu)
 
 - 🌱 J'apprends actuellement **le lua**
 
-- 👯 Je cherche à collaborer sur [satoshiDevelopment](https://discord.gg/qsApZFRn4A)
+- 👯 Je cherche à collaborer sur [satoshiDevelopment](https://discord.gg/5UheXrMENu)
 
-- 🤝 J'aide les gens sur mon discord [satoshiDevelopment](https://discord.gg/qsApZFRn4A)
+- 🤝 J'aide les gens sur mon discord [satoshiDevelopment](https://discord.gg/5UheXrMENu)
 
-- 👨‍💻 Tous mes projets sont disponibles sur [https://discord.gg/qsApZFRn4A](https://discord.gg/qsApZFRn4A)
+- 👨‍💻 Tous mes projets sont disponibles sur [https://discord.gg/qsApZFRn4A](https://discord.gg/5UheXrMENu)
 
 - 📫 Comment me joindre : **$at0shi#1516**
 
 <h3 align="left">Contactez-moi :</h3>
 <p align="left">
-<a href="https://discord.gg/https://discord.gg/qsApZFRn4A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain /github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/qsApZFRn4A" height="30" width="40" /></ un>
+<a href="https://discord.gg/https://discord.gg/5UheXrMENu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain /github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/qsApZFRn4A" height="30" width="40" /></ un>
 </p>
 
 <h3 align="left">Langages et outils :</h3>
